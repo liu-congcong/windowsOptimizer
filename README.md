@@ -4,10 +4,10 @@ windows优化器,方便刷系统,有时间还会继续更新.
 
 1. "Documents" -> "D:\{username}\Documents".
 2. "Downloads" -> "D:\{username}\Downloads".
-3. \ \ "Music" -> "D:\{username}\Music".
-4. \ "Pictures" -> "D:\{username}\Pictures".
-5. \ \ "Videos" -> "D:\{username}\Videos".
-6. \ "OneDrive" -> "D:\{username}\OneDrive".
+3. "Music" -> "D:\{username}\Music".
+4. "Pictures" -> "D:\{username}\Pictures".
+5. "Videos" -> "D:\{username}\Videos".
+6. "OneDrive" -> "D:\{username}\OneDrive".
 
 ## Usage
 
